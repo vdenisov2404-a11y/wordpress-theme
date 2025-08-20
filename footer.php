@@ -1,16 +1,12 @@
 <?php
 /**
- * Пример кастомного футера для WordPress-темы.
- *
- * Демонстрирует работу с HTML5, адаптивной вёрсткой,
- * модальными окнами и интеграцией с CMS.
- * Конфиденциальные данные удалены.
+ * пример кастомного футера для WordPress-темы.
  */
 ?>
 <footer class="footer">
   <div class="container">
     <div class="footer__content flex">
-      <!-- Логотип и контакты -->
+      <!-- логотип и контакты -->
       <div class="footer__contact">
         <a class="footer__logo" href="/">
           <img src="./img/logo.webp" alt="Логотип компании">
@@ -28,7 +24,7 @@
         </a>
       </div>
 
-      <!-- Ссылки и навигация -->
+      <!-- ссылки и навигация -->
       <div class="footer__links flex">
         <ul class="footer__link-list flex list-reset">
           <li class="footer__link-item">
@@ -45,7 +41,7 @@
           </li>
         </ul>
 
-        <!-- Кнопки действий -->
+        <!-- кнопки действий -->
         <a data-fancybox data-src="#dateform" class="footer__review-btn footer__review-btn--mobile btn-style-3" href="">
           Бесплатный<br>вызов эвакуатора
         </a>
@@ -53,7 +49,7 @@
           Бесплатный подбор<br>запчастей за 30 минут
         </a>
 
-        <!-- Навигационное меню -->
+        <!-- навигационное меню -->
         <ul class="footer__nav-list list-reset flex">
           <li class="footer__nav-item"><a href="#diagnostics" class="footer__nav-link">Диагностика</a></li>
           <li class="footer__nav-item"><a href="#maintenance" class="footer__nav-link">Техобслуживание</a></li>
@@ -63,7 +59,7 @@
           <li class="footer__nav-item"><a href="#shinomontag__div" class="footer__nav-link">ШИНОМОНТАЖ</a></li>
         </ul>
 
-        <!-- Социальные сети -->
+        <!-- социальные сети -->
         <ul class="footer__social list-reset flex">
           <li class="footer__social-item">
             <a class="footer__social-link" target="_blank" href="#">
@@ -92,7 +88,7 @@
           </li>
         </ul>
 
-        <!-- Дополнительные кнопки -->
+        <!-- дополнительные кнопки -->
         <div class="additional__button">
           <a href="./presentation/example.pdf" class="presentation" download>
             Скачать презентацию
@@ -102,7 +98,7 @@
             </svg>
           </a>
 
-          <!-- Ссылки на приложения -->
+          <!-- ссылки на приложения -->
           <div class="app__buttons pref">
             <p>Скачайте приложение на Ios или Android:</p>
             <a href="#" class="apps" data-app="App store" target="_blank">
@@ -130,7 +126,7 @@
         </div>
       </div>
 
-      <!-- Отзывы и кнопки -->
+      <!-- отзывы и кнопки -->
       <div class="footer__review">
         <ul class="footer__review-list list-reset flex">
           <li class="footer__review-item">
@@ -152,14 +148,14 @@
       </div>
     </div>
 
-    <!-- Подвал -->
+    <!-- подвал -->
     <div class="footer__bottom">
       <p>&copy; Все права защищены 1995 - 2024</p>
     </div>
   </div>
 </footer>
 
-<!-- Пример модального окна -->
+<!-- пример модального окна -->
 <form class="form-modal ajax-form" id="consultation" style="display:none">
   <div class="form-modal__wrapper">
     <p>Пожалуйста, оставьте номер</p>
