@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/air-datepicker@3.4.0/air-datepicker.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
 
-  <!-- Пример: подключение кастомных стилей и скриптов -->
+  <!-- пример: подключение кастомных стилей и скриптов -->
   <link rel="stylesheet" href="./css/vendor.css">
   <link rel="stylesheet" href="./font/stylesheet.css" />
 
