@@ -1,8 +1,10 @@
 <?php
-/**
- * The header for our theme
+ /*
+ * Пример кастомного хедера для WordPress-темы.
  *
- * This is the template that displays all of the <head> section and everything up until <div id="content">
+ * Демонстрирует работу с HTML5, адаптивной вёрсткой,
+ * подключением библиотек (Swiper, Fancybox) и интеграцией с CMS.
+ * Конфиденциальные данные удалены.
  */
 ?>
 <!DOCTYPE html>
