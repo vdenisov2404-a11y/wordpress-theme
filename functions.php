@@ -1,9 +1,10 @@
 <?php
 /**
- * Example theme functions and definitions
+ * Пример файла функций для WordPress-темы.
  *
- * This file demonstrates how to register theme support, enqueue styles and scripts,
- * and set up basic WordPress features.
+ * Демонстрирует регистрацию поддержки тем (title-tag, post-thumbnails),
+ * подключение стилей и скриптов, регистрацию меню и виджетов.
+ * Конфиденциальные данные удалены.
  */
 
 if (!defined('_S_VERSION')) {
